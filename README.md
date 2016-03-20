@@ -1,5 +1,5 @@
 # OfficialAddons
-Official addons approved by the EloBuddy team, made by quality addon developers.
+Official addons approved by the EloBuddy team, made by quality addon developers. [Install link](elobuddy://EloBuddy/OfficialAddons)
 
 ## Hellsing
 ### [MasterMind](https://www.elobuddy.net/topic/14664-/)
